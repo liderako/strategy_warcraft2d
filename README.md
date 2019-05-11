@@ -1,4 +1,4 @@
-# strategy_warcraft_2D
+# strategy_warcraft2d
 
 Features that I studied
 * Audio
