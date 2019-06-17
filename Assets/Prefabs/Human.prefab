@@ -120,7 +120,7 @@ MonoBehaviour:
   type: Human Warrior
   dead: 0
   _id: 0
-  _playerManager: {fileID: 3319949871644313044, guid: e6d37f0028e414924a3ca72419b05fcf, type: 3}
+  _playerManager: {fileID: 0}
   _speed: 2
   _animator: {fileID: 3954228295477924440}
   _zona: {fileID: 3954228296708210845}
